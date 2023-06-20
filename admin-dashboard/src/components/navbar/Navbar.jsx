@@ -41,7 +41,7 @@ export const Navbar = () => {
                 <ListOutlinedIcon className='icon'/>
             </div>
             <div className="item">
-                <img src = "https://www.kindpng.com/picc/m/109-1092718_bitmoji-face-hd-png-download.png" alt = "" className='avatar' />
+                <img src = "https://th.bing.com/th/id/R.2559581a23ea48ffe392d53ac9354c8a?rik=npUWQ%2fipBmvqQw&pid=ImgRaw&r=0" alt = "" className='avatar' />
             </div>
         </div>
         </div>
